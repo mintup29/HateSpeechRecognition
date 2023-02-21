@@ -1,0 +1,4 @@
+streamlit==1.7.0
+scikit-learn>=0.18
+pytorch==1.12.1
+transformers==4.24.0
